@@ -1,5 +1,6 @@
 # Ignorar el archivo de lista invertida
 lista_invertida_limpia.txt
+resultados_busqueda.txt
 
 # Opcional: Ignorar otros archivos o directorios innecesarios
 # *.log

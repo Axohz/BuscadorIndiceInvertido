@@ -66,4 +66,4 @@ El programa solicita al usuario una consulta y muestra las URLs resultantes.
 2. **Ejecutar el Script:**
 Abre una terminal, navega al directorio que contiene `buscador.py` y ejecuta:
 ```bash
-python3 buscador.py
+python3 script_busqueda.py
