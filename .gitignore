@@ -1,0 +1,7 @@
+# Ignorar el archivo de lista invertida
+lista_invertida_limpia.txt
+
+# Opcional: Ignorar otros archivos o directorios innecesarios
+# *.log
+# __pycache__/
+# .env
